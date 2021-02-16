@@ -26,7 +26,7 @@ stext=pygame.font.SysFont('comicsansms',20)
 
 
 def crash():
-    message_display('Andhe')
+    message_display('Ghar se kachra nikal!!')
 
 
 def button(msg,x,y,w,h,ic,ac,action=None):
